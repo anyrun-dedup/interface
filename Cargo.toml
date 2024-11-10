@@ -1,6 +1,6 @@
 [package]
 name = "anyrun-interface"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "The raw interface crate for interaction between Anyrun and the plugins"
 license = "GPLv3"
